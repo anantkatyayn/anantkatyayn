@@ -1,5 +1,8 @@
 ![Banner](https://github.com/anantkatyayn/anantkatyayn/blob/main/assets/Anant-katyayn-philomath-banner.png)
-# 👋 Hello, World! I'm Anant!
+<div align="center">
+  <h1>Welcome✨</h1>
+</div>
+
 
 ### 🌟 Designer | 💻 Developer | 🚀 Tech Enthusiast  
 
@@ -42,14 +45,19 @@ Welcome to my GitHub profile! I'm a designer and developer who thrives on creati
 ## 🌟 Featured Projects
 
 ### 🛒 [MovieChowk](https://moviechowk.netlify.app)
-> **Description:** A short description of the project and what it does.  
+> **Description:** A web application offering advanced search and filtering for over 50,000 movies and TV shows. Built with ReactJS and CSS for a responsive and modern UI.  
 > **Technologies:** [React, TailWind CSS, Git/GitHub]
 
 ---
 
-### 🌟 [Another Project](https://github.com/yourusername/projectname)
-> **Description:** A short description of the project and what it does.  
-> **Technologies:** [List of Tech Used]
+### 🌟 [Pokedex v1.0.0](https://pokedexv1anant.netlify.app)
+> **Description:** A web-based Pokémon encyclopedia inspired by the anime series. Displays detailed Pokémon information and presents search results query on name and Id.  
+> **Technologies:** [HTML5, CSS3, JavaScript, Git/GitHub]
+
+---
+### 🌟 [Kafi-Kitaab - UX Design](https://www.behance.net/gallery/193465259/Kafi-Kitaab-book-cafe-mobile-application-casestudy)
+> **Description:** A mobile application for conceptual book cafés, featuring table and book reservations, branch locators, and personalized recommendations. Focused on consistent brand identity and seamless user experience.  
+> **Technologies:** [Figma, Adobe Photoshop, Adobe Illustrator]
 
 ---
 

@@ -1,4 +1,4 @@
-![Banner](https://github.com/anantkatyayn/anantkatyayn/assets/Anant katyayn philomath banner.png)
+![Banner](https://github.com/anantkatyayn/anantkatyayn/assets/Anant-katyayn-philomath-banner.png)
 # 👋 Hello, World! I'm Anant!
 
 ### 🌟 Designer | 💻 Developer | 🚀 Tech Enthusiast  

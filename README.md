@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a designer and developer who thrives on creati
 
 ### 🌟 [FinMan - Full Stack Dev](https://finman-anant.netlify.app)
 > **Description:** A mobile application for conceptual book cafés, featuring table and book reservations, branch locators, and personalized recommendations. Focused on consistent brand identity and seamless user experience.  
-> **Technologies:** [React, TailWind CSS, Node.js, Express.js, MongoDB, Git/GitHub]
+> **Technologies:** [React, TailWind CSS, Node.js, Express.js, MongoDB, Git/GitHub] <br/>
 > **Source Code:** [FinMan- frontend](https://github.com/anantkatyayn/finman-frontend)  
 [FinMan- backend](https://github.com/anantkatyayn/finman-backend)
 
@@ -54,8 +54,8 @@ Welcome to my GitHub profile! I'm a designer and developer who thrives on creati
 
 ### 🛒 [MovieChowk](https://moviechowk.netlify.app)
 > **Description:** A web application offering advanced search and filtering for over 50,000 movies and TV shows. Built with ReactJS and CSS for a responsive and modern UI.  
-> **Technologies:** [React, TailWind CSS, Git/GitHub]
-
+> **Technologies:** [React, TailWind CSS, Git/GitHub] <br/>
+> **Source Code:** [MovieChowk](https://github.com/anantkatyayn/Project-MovieChowk)  
 ---
 
 ### 🌟 [Pokedex v1.0.0](https://pokedexv1anant.netlify.app)

@@ -37,12 +37,20 @@ Welcome to my GitHub profile! I'm a designer and developer who thrives on creati
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anantkatyayn)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/anantkatyayn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://anantkatyayn.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://anantkatyayn.in)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anantkatyayn112@gmail.com)
 
 ---
 
 ## 🌟 Featured Projects
+
+### 🌟 [FinMan - Full Stack Dev](https://finman-anant.netlify.app)
+> **Description:** A mobile application for conceptual book cafés, featuring table and book reservations, branch locators, and personalized recommendations. Focused on consistent brand identity and seamless user experience.  
+> **Technologies:** [React, TailWind CSS, Node.js, Express.js, MongoDB, Git/GitHub]
+> **Source Code:** [![FinMan- frontend]]([https://anantkatyayn.in](https://github.com/anantkatyayn/finman-frontend))
+[![FinMan- backend]]([https://anantkatyayn.in](https://github.com/anantkatyayn/finman-backend))
+
+---
 
 ### 🛒 [MovieChowk](https://moviechowk.netlify.app)
 > **Description:** A web application offering advanced search and filtering for over 50,000 movies and TV shows. Built with ReactJS and CSS for a responsive and modern UI.  
@@ -60,5 +68,6 @@ Welcome to my GitHub profile! I'm a designer and developer who thrives on creati
 > **Technologies:** [Figma, Adobe Photoshop, Adobe Illustrator]
 
 ---
+
 
 Feel free to reach out or collaborate! Happy coding! 😊

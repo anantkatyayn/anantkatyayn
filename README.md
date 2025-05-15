@@ -47,8 +47,8 @@ Welcome to my GitHub profile! I'm a designer and developer who thrives on creati
 ### 🌟 [FinMan - Full Stack Dev](https://finman-anant.netlify.app)
 > **Description:** A mobile application for conceptual book cafés, featuring table and book reservations, branch locators, and personalized recommendations. Focused on consistent brand identity and seamless user experience.  
 > **Technologies:** [React, TailWind CSS, Node.js, Express.js, MongoDB, Git/GitHub]
-> **Source Code:** [![FinMan- frontend]]([https://anantkatyayn.in](https://github.com/anantkatyayn/finman-frontend))
-[![FinMan- backend]]([https://anantkatyayn.in](https://github.com/anantkatyayn/finman-backend))
+> **Source Code:** [FinMan- frontend]([https://anantkatyayn.in](https://github.com/anantkatyayn/finman-frontend))
+[FinMan- backend]([https://anantkatyayn.in](https://github.com/anantkatyayn/finman-backend))
 
 ---
 
